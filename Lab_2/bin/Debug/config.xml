@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <BackColor>Teal</BackColor>
+  <Font>
+    <FontSize>9,75</FontSize>
+    <FontType>Times New Roman</FontType>
+    <FontColor>Black</FontColor>
+  </Font>
+  <Data>
+    <LowerBound></LowerBound>
+    <UpperBound></UpperBound>
+    <Points></Points>
+  </Data>
+</Settings>
